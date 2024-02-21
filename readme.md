@@ -17,3 +17,5 @@ In this notebook we will setup the first part, the database - where we will be u
 
 **Haystack pipeline**
 here will build the haystack pipeline that will employ a BM25 retriever with the `deepset/bert-base-cased-squad2` PLM model to generate queries related to the content of the PDF.
+
+check the article : [Building an Elasticsearch-Powered Question Answering System: Setup and Pipeline Construction](https://technor.dev/posts/Open-Domain-Question-Answering-System)
